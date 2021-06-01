@@ -2,7 +2,7 @@
 
 #ifdef TESTMETHOD
 int tm_add(int a, int b){
-        return a + b;
+        return a + b + a;
 }
 #endif
 
